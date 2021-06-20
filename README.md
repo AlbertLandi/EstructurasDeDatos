@@ -1,4 +1,4 @@
-# Algoritmos-y-Programacion
+# Estructuras de Datos
 
 Multiple University Projects made in Java using Object-Oriented-Programming and Data Structures such as lists, stacks, Binary Search Trees.
 
@@ -6,3 +6,5 @@ Multiple University Projects made in Java using Object-Oriented-Programming and 
 - Calculator (simple Java GUI Project)
 - Warehouse Simulator (Almacen)
 - Baseball League (Aplicacion Liga Beisbol)
+- LotoUnimet
+- MetroCine
